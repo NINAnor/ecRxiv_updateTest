@@ -1,5 +1,5 @@
 ---
-title: "indicator test2 update"
+title: "indicator test2 update from old fork"
 subtitle: |
   [INDICATORID] (ECOSYSTEM A) \
   [INDICATORID2] (ECOSYSTEM B)  
@@ -369,4 +369,5 @@ sessionInfo()
 ```
 
 :::
+
 
